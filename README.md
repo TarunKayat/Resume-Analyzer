@@ -35,7 +35,7 @@ This project helps job seekers improve their resumes with AI feedback, skill gap
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ai-resume-analyzer.git
+git clone https://github.com/TarunKayat/Resume-Analyzer.git
 cd ai-resume-analyzer
 
 2️⃣ Install dependencies
